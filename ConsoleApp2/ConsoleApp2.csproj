@@ -48,9 +48,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="SolutionItems\MomGC.zip" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="SolutionItems\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
